@@ -1,0 +1,68 @@
+[
+    {
+        "title": "发送消息",
+        "msgtype": 1,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "图片消息",
+        "msgtype": 2,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "文件消息",
+        "msgtype": 3,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "笔画消息",
+        "msgtype": 4,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "创建群组",
+        "msgtype": 5,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "发起邀请",
+        "msgtype": 6,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "接受邀请",
+        "msgtype": 7,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "创建群组",
+        "msgtype": 8,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "发起邀请",
+        "msgtype": 9,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "接受邀请",
+        "msgtype": 10,
+        "icon": "",
+        "event": "String?"
+    },
+    {
+        "title": "接受邀请",
+        "msgtype": 11,
+        "icon": "",
+        "event": "String?"
+    }
+]
